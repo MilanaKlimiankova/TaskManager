@@ -1,0 +1,16 @@
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\bin\Debug\TaskManagerDemo.exe.config
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\bin\Debug\TaskManagerDemo.exe
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\bin\Debug\TaskManagerDemo.pdb
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\MainWindow.g.cs
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\App.g.cs
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo_MarkupCompile.cache
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo_MarkupCompile.lref
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\MainWindow.baml
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo.g.resources
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo.Properties.Resources.resources
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo.exe
+C:\Users\555\Desktop\Processes and Threads-20240820T090051Z-001\Processes and Threads\TaskManagerDemo\obj\Debug\TaskManagerDemo.pdb
